@@ -1,2 +1,2 @@
 # ngrex
-Parallel agents 
+Parallel AI agents 
