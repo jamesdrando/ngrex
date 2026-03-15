@@ -257,6 +257,8 @@ Suggested structure:
   /orchestrator
   /schemas
   /prompts
+  /tools
+  /skills
 
 /apps
   /api
